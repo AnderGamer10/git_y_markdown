@@ -28,3 +28,12 @@
 - [x] B
 - [ ] C
 - Esto es `Codigo`
+
+| Syntax | Description |
+| -- | -- |
+| Box  | Box Check |
+| &#9744; | &#9745;  |
+| Equis  | Check |
+| &#10008;| &#10004; | 
+
+
