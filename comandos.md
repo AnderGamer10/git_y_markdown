@@ -18,9 +18,7 @@ dos maneras:
 - git remote add origin git@github.com/AnderGamer10/git-ejemplo.git   
 esto sirve para añadir el repositorio donde guardar los archivos en github.
 
-
 2. GITHUB:
 creamos un repositorio
-
 
 - git clone https://github.com/AnderGamer10/git-ejemplo.git

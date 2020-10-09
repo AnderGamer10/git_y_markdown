@@ -1,6 +1,6 @@
-#Titulo
-##Subtitulo
-###Subtitulo 2
+# Titulo
+## Subtitulo
+### Subtitulo 2
 
 1. Elemento 1
     - Elemento 1.1
@@ -24,7 +24,7 @@
 - Elemento ~~Tachado~~
 >Elemento raro
 
-- [ ]A
-- [x]B
-- [ ]C
+- [ ] A
+- [x] B
+- [ ] C
 - Esto es `Codigo`
