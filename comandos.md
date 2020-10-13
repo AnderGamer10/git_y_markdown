@@ -22,3 +22,10 @@ esto sirve para añadir el repositorio donde guardar los archivos en github.
 creamos un repositorio
 
 - git clone https://github.com/AnderGamer10/git-ejemplo.git
+
+
+3. CMD:
+- CD: Para ir a un directorio
+- DIR: Para ver que hay en el directorio
+- TREE: Enseña el arbol de directorios
+- RENAM ARCHIVO: Cambia el nombre del archivo
