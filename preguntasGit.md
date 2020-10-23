@@ -28,4 +28,7 @@
 10. >¿Cuál es la manera más eficiente de encontrar una mala confirmación?
     - Con el comando "git bisect"
 ## Preguntas Avanzadas
-1. ¿Qué es un "encabezado"?
+1. >¿Qué es un "encabezado"?
+    - Un encabezado es utilizado para referirse al objeto de una confirmacion.
+2. >¿Para qué se utiliza el comando "Git CONFIG"?
+    - 
