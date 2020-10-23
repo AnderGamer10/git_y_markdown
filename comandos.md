@@ -14,14 +14,14 @@
 
 - git push : sirve para subir a github archivos
 dos maneras:
-- git remote add origin https://github.com/AnderGamer10/git-ejemplo.git   
+- git remote add origin https://github.com/AnderGamer10/git_y_markdown.git   
 - git remote add origin git@github.com/AnderGamer10/git-ejemplo.git   
 esto sirve para añadir el repositorio donde guardar los archivos en github.
 
 2. GITHUB:
 creamos un repositorio
 
-- git clone https://github.com/AnderGamer10/git-ejemplo.git
+- git clone https://github.com/AnderGamer10/git_y_markdown.git
 
 
 3. CMD:
