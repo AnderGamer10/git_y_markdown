@@ -1,7 +1,10 @@
 # Preguntas sobre Git
 ## Preguntas Basicas
+
 1. >¿Que es Git?
     - Git es una tecnlogia diseada para poder cambiar, restrear y guardar cambios en cualquier tipo de archivos de computadora. Normalmente las empresas utilizan Git para administrar y seguir el progresp de sus proyectos.
+        ### LOGO DE GIT
+    ![Esta es una imagen de ejemplo](https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png)
 2. >¿Cuál es la diferencia entre un "repositorio simple" y un "directorio de trabajo"?
     - Repositorio Simple:
         - No cuenta con ningun archivo de trabajo que se use en Git y no hay ni subdirectorios ni control de versiones.
@@ -13,10 +16,10 @@
     - Rama:
         - Se usa para cambiar ciertas partes de un programa, para luego fusionar los cambios en el nucleo (main/master)
 4. >Has creado una confirmación y la has enviado, ahora es pública. Sin embargo, has notado que todavía hay cosas que deben cambiarse. ¿Puedes hacerlo en la etapa de confirmación? y si es así, ¿Cómo?
-    - Se pueden realizar cambios incluso despues de la confirmacion con el comando llamada "git revert".
+    - Se pueden realizar cambios incluso despues de la confirmacion con el comando llamada ***git revert***.
     - Es un comando que actua como parche.
 5. >¿Qué es "cherry-picking"?
-    -Ocurre cuando decides elegir algún tipo de confirmación de una rama basada en Git y luego aplicar sus características a otra rama. 
+    - Ocurre cuando decides elegir algún tipo de confirmación de una rama basada en Git y luego aplicar sus características a otra rama. 
 6. >¿Qué es un "stash"?
     - El Stash actua como una unidad de almacenamiento, donde guardar tu proyecto y todas las caracteristicas, por lo que te deja regresar en el tiempo y continuar trabajando donde lo dejaste.
 7. >¿Cómo resuelves "conflictos " en Git?
@@ -35,3 +38,4 @@
 3. >¿Se pueden arreglar las confirmaciones rotas?
     - Si, se puede hacer mediante el comando git commit - amend.
         - Encuentra la confirmacion rota y restaura su funcionalidad.
+
