@@ -31,4 +31,7 @@
 1. >¿Qué es un "encabezado"?
     - Un encabezado es utilizado para referirse al objeto de una confirmacion.
 2. >¿Para qué se utiliza el comando "Git CONFIG"?
-    - 
+    -  Sirve para configurar la mayoria de opciones que necesitaras en Git. Ya sea informacion del usuario o la forma en la que funciona el repositorio.
+3. >¿Se pueden arreglar las confirmaciones rotas?
+    - Si, se puede hacer mediante el comando git commit - amend.
+        - Encuentra la confirmacion rota y restaura su funcionalidad.
