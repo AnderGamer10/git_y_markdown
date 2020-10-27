@@ -36,4 +36,6 @@
 | Equis  | Check |
 | &#10008;| &#10004; | 
 
-
+- Como añadir una foto en markdown
+    - Primero hay que hacer una linea que tenga un - o un 1 y despues poner esto =
+        ![Aqui hay un comentario](https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png)

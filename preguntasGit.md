@@ -4,7 +4,7 @@
 1. >¿Que es Git?
     - Git es una tecnlogia diseada para poder cambiar, restrear y guardar cambios en cualquier tipo de archivos de computadora. Normalmente las empresas utilizan Git para administrar y seguir el progresp de sus proyectos.
         ### LOGO DE GIT
-    ![Esta es una imagen de ejemplo](https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png)
+    ![Esta es una imagen del logo de GIT](https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png)
 2. >¿Cuál es la diferencia entre un "repositorio simple" y un "directorio de trabajo"?
     - Repositorio Simple:
         - No cuenta con ningun archivo de trabajo que se use en Git y no hay ni subdirectorios ni control de versiones.
