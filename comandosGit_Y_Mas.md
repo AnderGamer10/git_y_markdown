@@ -42,6 +42,7 @@
     - git branch DEV : para crear una rama.
 
     - git branch -a : para ver los branch que hay
+    
 2. CMD:
     - CD: Para ir a un directorio
     - DIR: Para ver que hay en el directorio
