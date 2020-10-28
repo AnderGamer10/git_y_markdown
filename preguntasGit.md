@@ -4,7 +4,7 @@
 1. >¿Que es Git?
     - Git es una tecnlogia diseada para poder cambiar, restrear y guardar cambios en cualquier tipo de archivos de computadora. Normalmente las empresas utilizan Git para administrar y seguir el progresp de sus proyectos.
         ### LOGO DE GIT
-    ![Esta es una imagen del logo de GIT](https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png)
+        <img height="200px" width="400px" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png">
 2. >¿Cuál es la diferencia entre un "repositorio simple" y un "directorio de trabajo"?
     - Repositorio Simple:
         - No cuenta con ningun archivo de trabajo que se use en Git y no hay ni subdirectorios ni control de versiones.
@@ -26,6 +26,9 @@
     - Hay varios conflictos pero uno de los mas normales es tener algun cambio duplicado, por ejemplo cambios en VisualCode y en Github a la vez. Por lo tanto emitira un conflicto por lo que hay que utilizar los comandos "git add" y "git commit" y despues juntarlos.
 8. >¿Cuál es el lenguaje utilizado en Git?
     - Git utiliza el lenguaje "C"
+    <br>
+    <img height="200px" width="400px" src="https://i.blogs.es/21f7ba/c-lenguaje/1366_521.jpg">
+   
 9. >¿Qué es una "solicitud de extracción"?
     - Es cuando tomas un repositorio y despues creas tu propia rama. Despues hacemos cambios y lo juntamos con la rama principal.
 10. >¿Cuál es la manera más eficiente de encontrar una mala confirmación?
@@ -38,4 +41,6 @@
 3. >¿Se pueden arreglar las confirmaciones rotas?
     - Si, se puede hacer mediante el comando git commit - amend.
         - Encuentra la confirmacion rota y restaura su funcionalidad.
-
+4. >¿Cuál es la diferencia entre "obtener" y "extraer"?
+    - **Extraer**: Cuando **_extraes_** datos, los mismos se descargan y luego se combinan inmediatamente con sus archivos de trabajo actuales.
+    - **Obtener**: **_Obtener_** datos es el camino a seguir si deseas descargarlos, pero sin fusionar los archivos.

@@ -1,6 +1,7 @@
 # Titulo
 ## Subtitulo
 ### Subtitulo 2
+#### ...
 
 1. Elemento 1
     - Elemento 1.1
@@ -39,3 +40,8 @@
 - Como añadir una foto en markdown
     - Primero hay que hacer una linea que tenga un - o un 1 y despues poner esto =
         ![Aqui hay un comentario](https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png)
+
+- Tambien podemos utilizar varias cosas de html como insertar imagen con esto:
+    <br>
+    <img height="200px" width="400px" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png">
+    - Utilizar HTML es una buena opcion para poder cambiar el tamaño de la imagen
