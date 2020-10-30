@@ -47,4 +47,7 @@
     - CD: Para ir a un directorio
     - DIR: Para ver que hay en el directorio
     - TREE: Enseña el arbol de directorios
-    - RENAM ARCHIVO: Cambia el nombre del archivo
+    - RENAME ARCHIVO: Cambia el nombre del archivo
+    - TYPE ARCHIVO.EXTENSION: Te permite crear un archivo desde la propia ventana de comandos.
+    - echo holamundo < archivo.txt : Sirve para crear un archivo txt con el texto holamundo
+    - COPY ARCHIVO DESTINO: Para hacer una copia de un archivo y guardarlo en un destino.     

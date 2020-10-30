@@ -23,7 +23,14 @@
 - Elemento _Cursiva_
 - Elemento ***Cursiva y negrita*** 
 - Elemento ~~Tachado~~
->Elemento raro
+   >Citas
+    >>Concatenar citas
+    >>>Triple Concatenacion
+
+~~~
+Con esto  "~~~" podemos "encerrar en bloque parrafos escritos, imagenes..."
+~~~
+
 
 - [ ] A
 - [x] B
@@ -45,3 +52,4 @@
     <br>
     <img height="200px" width="400px" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png">
     - Utilizar HTML es una buena opcion para poder cambiar el tamaño de la imagen
+ 

@@ -43,3 +43,12 @@
         - **git add --help**
     - Esta opción puede ser usada para separar opciones de línea de comando de la lista de archivos, útil cuando los nombres de los archivos se pueden confundir con las opciones de línea de comandos.
        - **git add —** 
+
+11. >Configurar name y email en git
+    - Con el comando **git config --list --show-origin**
+        - Obtienes la ruta de tu archivo .gitconfig
+        - Y agregas esto
+            - [user] 
+            - name = Tu nombre 
+            - email = Tu email
+        - Luego ejecutas **git config --list** y te saldran los datos introducidos.
