@@ -51,3 +51,15 @@
     - TYPE ARCHIVO.EXTENSION: Te permite crear un archivo desde la propia ventana de comandos.
     - echo holamundo < archivo.txt : Sirve para crear un archivo txt con el texto holamundo
     - COPY ARCHIVO DESTINO: Para hacer una copia de un archivo y guardarlo en un destino.     
+    
+Un par de cosas mas
+
+    -git init
+
+    -git add .
+
+    -git commit -m "first commit"
+
+    -git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
+
+    -git push -u origin master
